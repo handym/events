@@ -14,3 +14,18 @@ Examples of projects that we can probably get people to help out:
 - OpenStack
 - MediaWiki
 - LibreOffice
+
+
+Esoteric programming competition
+--------------------------------
+
+An evening of attempting to make esoteric programming languages do some things.
+
+Coding bee
+----------
+
+Something similar to
+https://blogs.dropbox.com/developers/2013/07/introducing-the-python-bee/
+
+Cryptographic capture the flag
+------------------------------
