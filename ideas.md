@@ -26,3 +26,23 @@ https://blogs.dropbox.com/developers/2013/07/introducing-the-python-bee/
 
 Cryptographic capture the flag
 ------------------------------
+
+
+Thinking Digital
+----------------
+
+An annual conference for those curious about technology, ideas and our future
+http://www.tdcncl.com/
+
+Electromagnetic Field
+---------------------
+
+Imagine a camping festival with a power grid and high-speed internet access;
+a temporary village of geeks, crafters, and technology enthusiasts that's lit
+up by night, and buzzing with activity during the day.
+https://www.emfcamp.org/
+
+Bletchley Park
+--------------
+
+https://www.bletchleypark.org.uk/
