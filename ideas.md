@@ -8,5 +8,5 @@ Event ideas
 ||Aber|Esoteric programming competition|An evening of attempting to make esoteric programming languages do some things.|
 ||Aber|Coding bee| Something similar to https://blogs.dropbox.com/developers/2013/07/introducing-the-python-bee/ |
 ||Aber| Cryptographic capture the flag| |
-|| |Electromagnetic Field|Imagine a camping festival with a power grid and high-speed internet access; a temporary village of geeks, crafters, and technology enthusiasts that's lit up by night, and buzzing with activity during the day. https://www.emfcamp.org/ |
+|Summer2018|Guildford |Electromagnetic Field|Imagine a camping festival with a power grid and high-speed internet access; a temporary village of geeks, crafters, and technology enthusiasts that's lit up by night, and buzzing with activity during the day. https://www.emfcamp.org/ |
 |||[Bletchley Park](https://www.bletchleypark.org.uk)|https://www.bletchleypark.org.uk/ ||
