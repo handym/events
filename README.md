@@ -1,5 +1,5 @@
-events-ideas
-============
+events
+======
 
 Confirmed events and some ideas for potential events.
 
