@@ -3,7 +3,7 @@ Event ideas
 
 |When                |Where    |What     | Description  |
 |-------------------:|-------- |---------| -------------|
-|16-17 May 2017||[Thinking Digital](http://www.tdcncl.com/)| An annual conference for those curious about technology, ideas and our future http://www.tdcncl.com/ |
+|16-17 May 2017|Gateshead, UK|[Thinking Digital](http://www.tdcncl.com/)| An annual conference for those curious about technology, ideas and our future http://www.tdcncl.com/ |
 |                    |Aber     |Open source sprint/hackathon|Get a bunch of people who are somewhat involved in an open source project to lead and help new people make some contribution to that open source project. Examples of projects that we can probably get people to help out: OpenStack, MediaWiki, LibreOffice.|
 ||Aber|Esoteric programming competition|An evening of attempting to make esoteric programming languages do some things.|
 ||Aber|Coding bee| Something similar to https://blogs.dropbox.com/developers/2013/07/introducing-the-python-bee/ |
