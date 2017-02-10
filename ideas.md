@@ -12,3 +12,4 @@ Event ideas
 |Any day         |Aber         | Cryptographic capture the flag| |
 |Any evening    |Aber         |Esoteric programming competition|An evening of attempting to make esoteric programming languages do some things.|
 |Any evening    |Aber         |Coding bee| Something similar to https://blogs.dropbox.com/developers/2013/07/introducing-the-python-bee/ |
+|Any evening    |Aber         |CompSoc Pecha Kucha Night  | Short 7 minute presentations on various topics, nice informal format for people to show off personal projects or interests. http://www.pechakucha.org/|
