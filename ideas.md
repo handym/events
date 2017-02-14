@@ -3,6 +3,7 @@ Event ideas
 
 |When          |Where        |What     | Description  |
 |-------------:|--------     |---------| -------------|
+|4-5Mar2017    |Exeter, UK   |[National Student Space Conference 2017](http://ukseds.org/get-involved/nssc-2017/)| NSSC17 features talks by leading space science and industry figures, a careers fair, and opportunities to take part in discussions and networking events. |
 |16-17May2017  |Gateshead,UK |[Thinking Digital](http://www.tdcncl.com/)| An annual conference for those curious about technology, ideas and our future http://www.tdcncl.com/ |
 |4-8Aug2017    |Neatherlands |[SHA2017](https://sha2017.org/)|SHA2017 is a non profit outdoor Hacker camp/conference.The festival is organized for and by volunteers from and around all facets of the international hacker community. Knowledge sharing, technological advancement, experimentation, connecting with your hacker peers and of course hacking are some of the core values of this event. |
 |24-26Oct2017 |Bremen,Germany|  [SpaceTechExpo Europe](http://www.spacetechexpo.eu/)| Space Tech Expo & Conference Europe gives the European space industry a focused marketplace for the design, manufacturing and testing of spacecraft, satellite, launch vehicle and space-related technologies, bringing together engineers, systems integrators, contractors and suppliers in commercial, government and military space.  |
